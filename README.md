@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amateur-God)](https://github.com/anuraghazra/github-readme-stats)
+I manage several Linux Servers, while also contributing to several Arma 3 mods and developing some of my own.
 <!--
 **Amateur-God/Amateur-God** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
