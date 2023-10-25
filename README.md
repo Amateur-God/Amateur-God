@@ -14,14 +14,27 @@
 </a>
 
 <a href="https://github.com/Amateur-God">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+
+<a href="https://github.com/Amateur-God">
     <img align="center" width="49%" src="./issue_pr_lang.svg" />
 </a>
 
 <a href="https://github.com/Amateur-God">
-  <img align="center" width="49%" src="./github-habits.svg" />
+    <img align="center" width="49%" src="./achievements.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
-    <img align="center" width="49%" src="./achievements.svg" />
+    <img align="center" width="49%" src="./metrics.plugin.lines.history.svg" />
+</a>
+<a href="https://github.com/Amateur-God">
+    <img align="center" width="49%" src="./metrics.plugin.reactions.svg" />
+</a>
+<a href="https://github.com/Amateur-God">
+    <img align="center" width="49%" src="./metrics.plugin.activity.svg" />
+</a>
+<a href="https://github.com/Amateur-God">
+    <img align="center" width="49%" src="./metrics.plugin.code.svg" />
 </a>
 <!--
 **Amateur-God/Amateur-God** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
