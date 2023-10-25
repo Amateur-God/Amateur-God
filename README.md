@@ -1,7 +1,3 @@
-### Hi there 👋
-
-I manage several Linux Servers, while also contributing to several Arma 3 mods and developing some of my own.
-
 <a href="https://github.com/Amateur-God">
   <img align="center" width="49%" src="./header.svg" />
 </a>
