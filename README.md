@@ -1,5 +1,5 @@
 <a href="https://github.com/Amateur-God">
-  <img align="center" width="49%" src="./metrics.plugin.introduction.svg" />
+  <img align="center" width="100%" src="./metrics.plugin.introduction.svg" />
 </a>
 <br/>
 <a href="https://github.com/Amateur-God">
