@@ -9,7 +9,7 @@ on:
 jobs:
 
   achievements:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -25,7 +25,7 @@ jobs:
           plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
 
   github-metrics:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -41,7 +41,7 @@ jobs:
           base: header
           config_timezone: ${{ secrets.USER_TIMEZONE }}
   lines:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -52,7 +52,7 @@ jobs:
           plugin_lines: yes
 
   acti_comm:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -69,7 +69,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
   iso_calender:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -88,7 +88,7 @@ jobs:
           plugin_isocalendar_duration: Full-year
 
   habits:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -106,7 +106,7 @@ jobs:
           plugin_habits_trim: yes       # Trim unused hours on daily chart
 
   issue_pr_lang:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -126,7 +126,7 @@ jobs:
 
 
   repositories:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -143,7 +143,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
   Repositories-diff-history:      
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
     - uses: lowlighter/metrics@latest
       with:
@@ -161,7 +161,7 @@ jobs:
           +lowlighter/metrics
 
   Comment-reactions:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
     - uses: lowlighter/metrics@latest
       with:
@@ -173,7 +173,7 @@ jobs:
         plugin_reactions_details: percentage
       
   Recent-activity:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
     - uses: lowlighter/metrics@latest
       with:
@@ -186,7 +186,7 @@ jobs:
         plugin_activity_filter: issue, pr, release, fork, review, ref/create
 
   snippet:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
     - uses: lowlighter/metrics@latest
       with:
@@ -198,7 +198,7 @@ jobs:
         plugin_code_load: 400
 
   Intro:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
     - uses: lowlighter/metrics@latest
       with:
@@ -209,7 +209,7 @@ jobs:
         plugin_introduction: yes
 
   Anime:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
     - uses: lowlighter/metrics@latest
       with:
@@ -219,11 +219,12 @@ jobs:
         plugin_anilist: yes
         plugin_anilist_user: amateurgod
         plugin_anilist_medias: anime
-        plugin_anilist_sections: favorites, watching
-        plugin_anilist_limit: 1
+        plugin_anilist_sections: favorites, watching, characters,
+        plugin_anilist_limit: 5
+        plugin_anilist_limit_characters: 22
 
   steam:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
     - uses: lowlighter/metrics@latest
       with:
