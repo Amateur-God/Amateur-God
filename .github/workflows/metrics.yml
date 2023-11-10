@@ -228,7 +228,7 @@ jobs:
     steps:
     - uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.steam.full.png
+        filename: metrics.plugin.steam.full.svg
         token: NOT_NEEDED
         base: ""
         plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
