@@ -65,13 +65,13 @@ Who is the Character in my Images? That's me, Ama or my online persona at least,
 &#x1F496; I watch pretty much anything when it comes to anime, however, I am extremely partial to a romantic fantasy setting, my plan to watch list is constantly growing and at this point, I don't think I'm ever going to catch up and finish it, so I guess it's about time I grab the popcorn, get just eat at the ready and sit back and get to binge-watching. You will probably notice that my average rating is around the 8/9 mark and that's because if it makes me laugh and smile, distracts me and lets me escape from the struggles of everyday life for a little while, I'll probably enjoy it a lot, some say easy to please I just say I love anime. &#x1F496;
 
 <a href="https://github.com/Amateur-God">
-    <img align="center" width="70%" src="./metrics.plugin.anilist.svg" />
+    <img align="center" width="60%" src="./metrics.plugin.anilist.svg" />
 </a>
 
 [![image](https://media.discordapp.net/attachments/1152885564480172125/1172495497362153544/gaming.png?ex=65608686&is=654e1186&hm=622f9145073c3b5b2f1abd0575e69e30dc2b1100c00172f6f7e763080fc8473d&=&width=1440&height=401)](https://anilist.co/user/amateurgod/)
 
 <a href="https://github.com/Amateur-God">
-    <img align="center" width="100%" src="./metrics.plugin.steam.full.svg" />
+    <img align="center" width="60%" src="./metrics.plugin.steam.full.svg" />
 </a>
 
 <!--
