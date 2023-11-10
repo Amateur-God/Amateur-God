@@ -236,5 +236,5 @@ jobs:
         plugin_steam_games_limit: 3
         plugin_steam_playtime_threshold: 3
         plugin_steam_recent_games_limit: 3
-        plugin_steam_achievements_limit: 5
+        plugin_steam_achievements_limit: 3
         plugin_steam_user: "76561198226668328"
