@@ -5,19 +5,6 @@
   <img align="center" width="100%" src="./metrics.plugin.introduction.svg" />
 </a>
 
-[![image](https://cdn.discordapp.com/attachments/1152885564480172125/1172450479452737537/About_Me_wide_less_guassian_blur_25.png?ex=65605c99&is=654de799&hm=042101b2cbffa1c1e3a1127501de986ebdb115b2f08235dfba2edd25bd7d7be3&)](https://anilist.co/user/amateurgod/)
-
-Name: Amateur-God
-Aliases: Ama
-Country: England
-Age: 28
-
-Tech Nerd &#x1F4BB;
-Autistic ♾️
-Norse Pagan ⚒️
-
-Who is the Character in my Images? That's me, Ama or my online persona at least, an androgynous representation of me. 
-<br/>
 <a href="https://github.com/Amateur-God">
   <img align="center" width="49%" src="./repositories.svg" />
 </a>
@@ -54,15 +41,6 @@ Who is the Character in my Images? That's me, Ama or my online persona at least,
 </a>
 
 [![image](https://cdn.discordapp.com/attachments/1152885564480172125/1172489541572112425/anime.png?ex=656080fa&is=654e0bfa&hm=c9d0c55395a13cb52311ecb5b577093b16ebe9f55f164b96034a43c8d150e309&)](https://anilist.co/user/amateurgod/)
-
-
-
-<h2 align=centre> My First Anime: </h1> <p align=centre>https://anilist.co/anime/21410/Nejimaki-Seirei-Senki-Tenkyou-no-Alderamin</p>
-
-<h2 align=centre> My First donghua: </h1> <p align=centre>https://anilist.co/anime/98861/The-Kings-Avatar/</p>
-
-
-&#x1F496; I watch pretty much anything when it comes to anime, however, I am extremely partial to a romantic fantasy setting, my plan to watch list is constantly growing and at this point, I don't think I'm ever going to catch up and finish it, so I guess it's about time I grab the popcorn, get just eat at the ready and sit back and get to binge-watching. You will probably notice that my average rating is around the 8/9 mark and that's because if it makes me laugh and smile, distracts me and lets me escape from the struggles of everyday life for a little while, I'll probably enjoy it a lot, some say easy to please I just say I love anime. &#x1F496;
 
 <a href="https://github.com/Amateur-God">
     <img align="center" width="60%" src="./metrics.plugin.anilist.svg" />
