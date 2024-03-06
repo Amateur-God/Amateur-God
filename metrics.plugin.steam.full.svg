@@ -287,6 +287,81 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
+                            <img src="data:image/jpg;base64,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" alt="" />
+                            <div class="about">
+                                <div class="name">War Thunder</div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        </svg>
+                                        Action, Massively Multiplayer, Simulation, Free to Play
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
+                                        </svg>
+                                        53 hours played
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
+                                        </svg>
+                                        Last played on 6 Mar 2024
+                                    </div>
+                                </div>
+                                <div class="achievements">
+                                    <div class="infos">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
+                                            </svg>
+                                            12 / 82 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBAf/xAApEAABBAECBgEEAwAAAAAAAAABAgMEBREGIQAHEhMxQSIUIzJhFVFT/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAE/8QAGhEBAQEBAQEBAAAAAAAAAAAAAQIAIRESMf/aAAwDAQACEQMRAD8AYa71fLp7SPFiR6yXHkwoU59+dVt96S8GwQ66D4cGAQD+J2HCyr11qK0kLdRA063ES/8AXSJsmvQhlL4yA6VeSsYwFDcnYHccbObFbDMutuJbljNCYEVMmPNSlh1X2vh1kkdbxJ6lITsADn9wU2dO1AuNECSlhsn6eDER8UnGSpSjgE4A3Ow9DjNdI7VMjJzU7fMu2ilK5EShW+mSqY221WISUvnbvEndKyPf5b78NuXutJ19byosqNVRI0SFNnNO19W2XorxQcutDclw5JO2VHY8RjVDV17HfvnlyHdlNwYyj1Oj2Bjc+c9Rwnbil5aWMux1W699I7Xxo1NMbZbqmB3UfbGVI2+TxwMesgADhi/p5q5AeYvManmW2rYYcVKjwodTD7z1q78owKN+6rfLhxuEglRzgHhPaSmZEGFW6YgSVtokdDdmtRaJd6SSEJOUpSUjJz1LUAM42HFtq7TEu+tK8O2UGHTwY0OK7Fm2iFORHy2B23d8l05ABzlXogcZ9SacubCs/hIi9Owq5qSmJlVi0XhJ8paJAw2o+Q2jB336vdcq/mJo8O7nCIMCqecbnPLtblRyuP3ulkH13T5OMfidyD4HFLyqbsDq+zU9HlIS/WTFdmsAaXntgBLONkrxgJP94J4Ezyvs320NLk0DL5kGE2WbJshb48tFP+g9pG/64e8vdJWlJYyHp02umQ5UKbCZjwbZHdkvhsgtNH0sYI23T74IhHNVPj3f/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Accurate Fire</div>
+                                                <div class="unlocked">2 Mar 2024</div>
+                                            </div>
+                                            <div class="description">Get 'Triple Strike'</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcCBf/EACwQAAICAgEDAwIFBQAAAAAAAAECAwQFESEABhITIjEUQQcVMmFiQlFxgpH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQIE/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAAxETUSExof/aAAwDAQACEQMRAD8At2Xt4Wj2fHbsx1bFm1DDZea3VRHmkRVKzTKRww9vyNgkADeh0FT8ScMfWhmxRaaewtn6mvShAE4AAlCuds/H6jo/A464/wCK1mVHx8Ze26yV4S5uKBMxWFdeoPs/vYn+X+B0EX6ZqaB2ZJ1Yj2rv1FI3zzwQR/w/t1lewhvE1V1ArplIzmX7hjxQy2HfBWcZFO1v61aESiGb4Z2Rvcs3OuNkkgb56qgpUavaZmkhr1rdeCa0s1WmhkglZGLyRoB+vkkgfJ3876gfZpjkazVmZjRFirY8GPBkVyF2Bx8En/Uf26qWOysuSvW/Ga2kUNOx4moPKYv4HZjH3Yfb9+hLcIHcmxPkO9+26VsQYXJVLNYrWrTxW5D6luGQxAH113p+OG0d8bG+g2T7Xs0cZLlpbmMXDowH1a2vJdk6C+Pj5+X8fHfSTvjtfL3s+tvHtQr0oKtOpJHcycfqwS+mAIpCTy+yByfd8je+ieT7F73tvLAZsN9Kl5Y/R/MoRqz4eKo339TxPCnn3cDoNbFjvqUrhVGGawt6xapWqmFxi2EaSCFblqRY5kZmOpEiJ4XQZQSfbtifnXTPsmzL+fzVnE7+eNnliXHzKzyqYzponB0WOiAd8Ec9GO2O0u8MJOzGtg7LT24q6q2XjXcsbMzQjX9ZBPHyNb10h7Q7cylfuKC1PWopiFxljFVq9XMxy2J3RH2iuPHcmywJGvHX7b6fDpB6iLjCJ//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Cadet</div>
+                                                <div class="unlocked">21 Feb 2024</div>
+                                            </div>
+                                            <div class="description">Spend 10 hours in battle</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwL/xAAvEAABBAECBQIFAwUAAAAAAAABAgMEEQUABgcSEyExIlEUFSMyQQhCQ1JhYoGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEA//EAB0RAQADAAMAAwAAAAAAAAAAAAEAAhEDEiEiMUH/2gAMAwEAAhEDEQA/AL7fW8p2K3AjHw141xL8aJKW5Ox7aXn3umClxwECl9hVj0nsKrRpXFDNJdcC/kqXDIEldwWrLw7Bw/5ivu89tX3F7arOaW3JDUteQEKMlEiQOV80jw6n8KN9/Y3/ALzDI4BWK3BjZEgpyDDUlluQ40ObnIKbBH/QCfur31K3+SbK6Fep5N34P7ikbmyMoZmPj1ttr+LiluClI65vndCgK56Pnyb1ZZvMtRuIowMNuJFYjY6TO548JDj7L6kKJdbFXz0boD1XRu9IEbkeaVALeMRHx7o5loQsKeQmjQ6aarx379qPbWZzZcGf+oKU/jX3hyYR4KdhDneU4WibbB/cBVD3oaetvo2ZJqufkG8T9zZHb3EtBjGR0l46GHY2QXaz9Pv1D4C/c+9+dTJYjZ/GSn8QsRMoWgpUdxYSq/KVAg0e9EEWNd8VOHmb3FucT8aYDMdqJDiONTMm31mHemAG3CSbWbHe/Vdi70ag8Kd4wXyWHMJ9OSmOtpeSbKS8appSf6iCPT576HJxdnSPS4B7JEPivnIjbcGS5ElLS64HJzrCitfOAlRUBV0LH4OmuzMd8RxAyGamzTIyT8GS4hMApQ9IC2v4gVWhQFBN/wBtBXuFu8HsiJLnyBTjkosJa+YNBBeHloJFeoAfb57aT8Ndibgw+7VZPMrgSGX4syK23DybfVed6ZBaaIIpQojsfTX4rRKOjBa1ccn/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Destroyer</div>
+                                                <div class="unlocked">2 Nov 2023</div>
+                                            </div>
+                                            <div class="description">Deal 10000 damage while controlling an aircraft or a naval vessel</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+9 others...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="media largeable-width-half">
                             <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABAUGBwgCAQP/xAAyEAACAgECBAQEBgEFAAAAAAABAgMEBQARBhIhMRMiQWEHMlFxCBQVFkJSMyMlYoGR/8QAGgEAAgMBAQAAAAAAAAAAAAAABAcCAwUGAP/EACIRAAEDBAICAwAAAAAAAAAAAAEAAgMEERIhBTEGQRMiUf/aAAwDAQACEQMRAD8Avddm3YgkN0K+o13G3lAcjcHyt6H21wDyDxCdm9ftqt/jRx5Fwvg3q1z/ALhbHIFB6wj0c/fSEoKCSulEMftbIYb2Q3xX+JVTFVpsdi2We645SB12OqAIlyFgWLbL5m3ZQNiNeY/E5HI75CfmNtySA3XcfXREdS7WmdXgYE/MSOmm/wATQMoIsYz12pykAYJvXSvyrsrF/wCK79dFSwVrTcofdyNm6/LpFFbpQ2JfztWyzsoEPI+3m1zalnpT+FM45+UPyDoQp7b60iDkC0aQTi1p7Uu4RzX7Gz1TwXV6lt+QR7bsD6nfWmoZRLUjlQ8iMokJPpvrGkFuWy4hUokjkATSDcR9e+th4IEYajzEMRXQFvRuml95nSRxlkvsojMPGkBxNnoMFjLN63GVjVPICe51kLjfIjLZOzkLfjSFjvGC2/r21o741Y58rw7GGZkrViZJCD3Gs6TYGQhXYM0Sndfca0vDqSD4DKD9iiWABp/VL8NmKGIx1T9SJM04CiPfYxjbox1NKcmOgqK5VTYl6oj9eYemq4wSx8Sz0qN1UfITyGDZRtyIvYnTHiPNNhrlerhXSzPWbkeUjmXp05R7jXatpo2MvfazJ5TfH2pU/DlbN32N2EJVkHKXTZeTUXzeNwkuUdIsnDsg8Mhty2w6d9KaFixM7SPZnVAxkkAcgddGRrQcGza5Yqm/nkI66ubVBrPqOkJ8bztc3+FZq0cFmEF4GYbOOxGtS4lgcVjkCndYE6f9azXko4VmeLFWZVtmJWRpHLR7emy6mXCfHeeoU4myVVpMbX/zW1XyqBrkvKeMk5WJhhG2q+CTE2Ks/itklwdmM05L1edeQrEdiNUXmqeT4gyoxMMC1Ia6hpJeXYRp6b60TVQKzqvlJHlRvQ6zl+IDIZReN2xOKVo1ESOscXld2Pfc+o9tcx4rO7J0DDb3dHvfYKKZizWxBlx9NHlnh6m3E23/AIe+kNV4xMhDOlmQ/I53J99fX9v5O0G8O2m7rtvt/L1X7jRnBGGoZjJiFLXh2g3hzNISeXb1H00xA4uADkG4glE0CJLXIhIhX/Of6j6nT/h+CDK5LxatiGylf5QB5Ce2xB76X3aOPwFnIVuGsjFbtyrypA+7Fn3699LbdC7JlaNu9Vnx+CjINpom5PDb1Ykem+rmjLpUlynWX4c/SYFtxQTXZ+Yv4MTeY7+g9tTThrLVcZwuEvUHr0iS0kE+zM2/caUO8mFxkRktLbEihoSO5Q9uv20NDlIzCORTMhO7I/m143ZpRIurviLKdttl/sdUR+I3Cy/naeYoOTbyB/Kvyb7oqjoR9NXw4Hif1j+p0nz9utjcLcv5CKGZaimRQ6A7e+k1wlU6mq2vYL31b9WhI3SyvwtTzFeK1Rmicxxr4ib/ADKT/InRLyyTePCIFrXHXlE6AKE/5Nt31x++rF1spLREcFkFiEddzKu/RV1X8uXud3lYHxCwG/UMe4P1Gm9AxzzlJpBk7Ugt5C3XV6NjJUYwehmEWz/cN30zr2YctwrdV5LE9yBP9AiQ8kh9x66B4fxFdMrUGW2ey58SRG9VI6aAyEq4WzNZx28LeIQtR+pj6/OfqDopuulEhOeHOIprOO/T7TSLJX67uev2Hto7PcafpuOWOpyfnG6Ku3y+51Ds/kYxYhvV3RbLKOaNRtsdu59tRqSRpZHeUlpG6g76njkbqBK//9k=" alt="" />
                             <div class="about">
                                 <div class="name">Cyberpunk 2077</div>
@@ -431,81 +506,6 @@
                                     <div class="achievement">
                                         <div>
                                             <div class="description ellipsis">+28 others...</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,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" alt="" />
-                            <div class="about">
-                                <div class="name">War Thunder</div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                        </svg>
-                                        Action, Massively Multiplayer, Simulation, Free to Play
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
-                                        </svg>
-                                        53 hours played
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
-                                        </svg>
-                                        Last played on 4 Mar 2024
-                                    </div>
-                                </div>
-                                <div class="achievements">
-                                    <div class="infos">
-                                        <div>
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
-                                            </svg>
-                                            12 / 82 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBAf/xAApEAABBAECBgEEAwAAAAAAAAABAgMEBREGIQAHEhMxQSIUIzJhFVFT/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAE/8QAGhEBAQEBAQEBAAAAAAAAAAAAAQIAIRESMf/aAAwDAQACEQMRAD8AYa71fLp7SPFiR6yXHkwoU59+dVt96S8GwQ66D4cGAQD+J2HCyr11qK0kLdRA063ES/8AXSJsmvQhlL4yA6VeSsYwFDcnYHccbObFbDMutuJbljNCYEVMmPNSlh1X2vh1kkdbxJ6lITsADn9wU2dO1AuNECSlhsn6eDER8UnGSpSjgE4A3Ow9DjNdI7VMjJzU7fMu2ilK5EShW+mSqY221WISUvnbvEndKyPf5b78NuXutJ19byosqNVRI0SFNnNO19W2XorxQcutDclw5JO2VHY8RjVDV17HfvnlyHdlNwYyj1Oj2Bjc+c9Rwnbil5aWMux1W699I7Xxo1NMbZbqmB3UfbGVI2+TxwMesgADhi/p5q5AeYvManmW2rYYcVKjwodTD7z1q78owKN+6rfLhxuEglRzgHhPaSmZEGFW6YgSVtokdDdmtRaJd6SSEJOUpSUjJz1LUAM42HFtq7TEu+tK8O2UGHTwY0OK7Fm2iFORHy2B23d8l05ABzlXogcZ9SacubCs/hIi9Owq5qSmJlVi0XhJ8paJAw2o+Q2jB336vdcq/mJo8O7nCIMCqecbnPLtblRyuP3ulkH13T5OMfidyD4HFLyqbsDq+zU9HlIS/WTFdmsAaXntgBLONkrxgJP94J4Ezyvs320NLk0DL5kGE2WbJshb48tFP+g9pG/64e8vdJWlJYyHp02umQ5UKbCZjwbZHdkvhsgtNH0sYI23T74IhHNVPj3f/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Accurate Fire</div>
-                                                <div class="unlocked">2 Mar 2024</div>
-                                            </div>
-                                            <div class="description">Get 'Triple Strike'</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcCBf/EACwQAAICAgEDAwIFBQAAAAAAAAECAwQFESEABhITIjEUQQcVMmFiQlFxgpH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQIE/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAAxETUSExof/aAAwDAQACEQMRAD8At2Xt4Wj2fHbsx1bFm1DDZea3VRHmkRVKzTKRww9vyNgkADeh0FT8ScMfWhmxRaaewtn6mvShAE4AAlCuds/H6jo/A464/wCK1mVHx8Ze26yV4S5uKBMxWFdeoPs/vYn+X+B0EX6ZqaB2ZJ1Yj2rv1FI3zzwQR/w/t1lewhvE1V1ArplIzmX7hjxQy2HfBWcZFO1v61aESiGb4Z2Rvcs3OuNkkgb56qgpUavaZmkhr1rdeCa0s1WmhkglZGLyRoB+vkkgfJ3876gfZpjkazVmZjRFirY8GPBkVyF2Bx8En/Uf26qWOysuSvW/Ga2kUNOx4moPKYv4HZjH3Yfb9+hLcIHcmxPkO9+26VsQYXJVLNYrWrTxW5D6luGQxAH113p+OG0d8bG+g2T7Xs0cZLlpbmMXDowH1a2vJdk6C+Pj5+X8fHfSTvjtfL3s+tvHtQr0oKtOpJHcycfqwS+mAIpCTy+yByfd8je+ieT7F73tvLAZsN9Kl5Y/R/MoRqz4eKo339TxPCnn3cDoNbFjvqUrhVGGawt6xapWqmFxi2EaSCFblqRY5kZmOpEiJ4XQZQSfbtifnXTPsmzL+fzVnE7+eNnliXHzKzyqYzponB0WOiAd8Ec9GO2O0u8MJOzGtg7LT24q6q2XjXcsbMzQjX9ZBPHyNb10h7Q7cylfuKC1PWopiFxljFVq9XMxy2J3RH2iuPHcmywJGvHX7b6fDpB6iLjCJ//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Cadet</div>
-                                                <div class="unlocked">21 Feb 2024</div>
-                                            </div>
-                                            <div class="description">Spend 10 hours in battle</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwL/xAAvEAABBAECBQIFAwUAAAAAAAABAgMEEQUABgcSEyExIlEUFSMyQQhCQ1JhYoGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEA//EAB0RAQADAAMAAwAAAAAAAAAAAAEAAhEDEiEiMUH/2gAMAwEAAhEDEQA/AL7fW8p2K3AjHw141xL8aJKW5Ox7aXn3umClxwECl9hVj0nsKrRpXFDNJdcC/kqXDIEldwWrLw7Bw/5ivu89tX3F7arOaW3JDUteQEKMlEiQOV80jw6n8KN9/Y3/ALzDI4BWK3BjZEgpyDDUlluQ40ObnIKbBH/QCfur31K3+SbK6Fep5N34P7ikbmyMoZmPj1ttr+LiluClI65vndCgK56Pnyb1ZZvMtRuIowMNuJFYjY6TO548JDj7L6kKJdbFXz0boD1XRu9IEbkeaVALeMRHx7o5loQsKeQmjQ6aarx379qPbWZzZcGf+oKU/jX3hyYR4KdhDneU4WibbB/cBVD3oaetvo2ZJqufkG8T9zZHb3EtBjGR0l46GHY2QXaz9Pv1D4C/c+9+dTJYjZ/GSn8QsRMoWgpUdxYSq/KVAg0e9EEWNd8VOHmb3FucT8aYDMdqJDiONTMm31mHemAG3CSbWbHe/Vdi70ag8Kd4wXyWHMJ9OSmOtpeSbKS8appSf6iCPT576HJxdnSPS4B7JEPivnIjbcGS5ElLS64HJzrCitfOAlRUBV0LH4OmuzMd8RxAyGamzTIyT8GS4hMApQ9IC2v4gVWhQFBN/wBtBXuFu8HsiJLnyBTjkosJa+YNBBeHloJFeoAfb57aT8Ndibgw+7VZPMrgSGX4syK23DybfVed6ZBaaIIpQojsfTX4rRKOjBa1ccn/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Destroyer</div>
-                                                <div class="unlocked">2 Nov 2023</div>
-                                            </div>
-                                            <div class="description">Deal 10000 damage while controlling an aircraft or a naval vessel</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+9 others...</div>
                                         </div>
                                     </div>
                                 </div>
