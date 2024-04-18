@@ -303,7 +303,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        4 hours played
+                                        5 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -320,42 +320,42 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            9 / 72 achievements unlocked
+                                            12 / 72 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgcDBAUI/8QAKRAAAgECBQMEAgMAAAAAAAAAAQIDBBEABQYSIRMxgRRRYXEHQSKR8P/EABgBAAMBAQAAAAAAAAAAAAAAAAACBAED/8QAJREAAQQBAwIHAAAAAAAAAAAAAQACAxEhBBIxI6FRYZGxwdHw/9oADAMBAAIRAxEAPwBrR+imoKadaSASQxhWnECgSi1gb/vmx+Lcd+S2tOk9fEq0wCRR2MnSUK5Jvx/X+thaI44cvBe603SXqbFuwiEYuAB+xbjHLyyTLtQ1yiplSpBolk2o3LWcg/xHIYA3+O/HfCO6LC9gJz7osSP2k14fuymNTmdBS1fRqGgilB2tdbcEXDE2tbkY35lVaeRgkEi9MsCFXttvgBqymjo9T5rS08jSQwVDRIWcudo4ALHk27c+2OtpWv3UFVSyPIzpG5UEXATb7/fvjWSE1aHx1wvQ0SSPTUyQLaaRAkRbgM2wcAn6wOrsoqMn1pRVNNRtllO0qepjnkSJWW6mQAM1mFiLgXHYgYqVMMrNPlkUbyyGCGOy9RFjAKWIZj34+zbzgr+QMnn1Rq2jgXpNllDl8jq808YV5m3bYwb2vuCfQBvimM8tJoEHn6vK4aqE1uaLyK7Z8vlQ3XGRS+teailp8wLSSMZqeTeWXcbXuBc8fPnGbQJrckNXK42xVEZSSBwLOAp2sG8njFv0vofJ6jR9HTZyFos4jZxLMtQgYncTe4Yqy2IsT7YP6h/HlRl8dRNltfl9dAEY2E6xyAbT3Umx8HxifUMZOS2TIOOKtNAHRxgAUfVf/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgMHAgQF/8QAKhAAAgIBAgUFAAEFAAAAAAAAAQIDBBEFIQAGEjFRExQiQWFCByNxgaH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwUE/8QAHhEAAgICAwEBAAAAAAAAAAAAARECAwBBEiExQmH/2gAMAwEAAhEDEQA/AEi2w9eJHk9T+2vwVer+I+hxBGI5ywjSugBwfgrNn/HYf94H8267ZgqpW05lgMcSyOx3+IXOy/e4HHB5D1+7NqwgsRvYl/icBVjG4LN+5KjjJxKeNGXdybThOuRgxRv0o7HrRT9Y8fvDu5QgajaxVgwIZN/RUY+B/OK50ywa88vVYirMYkf5uFZoWkUMV8npwcDfBxwu0i51w6vWWy8npwBgjyh2UGNh5JwcA+N+CqsLEAPd4ucfp+ZRWvUq1bTlsPHK1mMwt793HpzK6Z9NVAwOldzvn8wRwa/p7pvvuYJp5JZ5EVtpEBVJu/V1HxsNvOOGVzRIbyw+4sIIulQsRlGMFR1dKg9z54WcsctGrVSCmIK9YdmnnUEDwBnP++E1iUIkSLJLwym81dX0TTLui37moTmvNWWKOvNIzMkRaQDdRuRgY/O/GHLmmV7vNcF6hriTtS08G40EbhWIiKFQ7AZ6yBkY8nvwg5p5ZsXNDg0zTr1ZvcW43tStKirHGqtggZydz277DiblHl88t2uZHd6XtbKH2zx2FJEah8Ky9wdwfsbcUK7RGl8zyDAGkU9b991k+yszvfHrrvfT/c//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Reclamation Day!</div>
+                                                <div>First Contact</div>
                                                 <div class="unlocked">18 Apr 2024</div>
                                             </div>
-                                            <div class="description">Leave Vault 76</div>
+                                            <div class="description">Complete "First Contact"</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwcEBQYA/8QAMBAAAgECBQMABwkAAAAAAAAAAQIDBBEABRIhMQYTYQcUIiMyUoEkNEFCUXFzobL/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQAE/8QAHBEAAgMBAAMAAAAAAAAAAAAAAQIAITERAwQS/9oADAMBAAIRAxEAPwBi09NEaaH7PEbRIT7pflHjEiplgp8uESoi1CzFiI4wCFK8mwva4OKjOpEhyumneaaCONUJaMkbaRe9vHHkjFVS9XUE9Z2ssmkrZ6mLQil7OAmqxYvYLq1FedVlvxsb7LsFITah+FbBOTRAvJGroS4YagdHI/XEaqANNNdVPu35UfKcC6fqUzLLYnhLDt3QgjSLDa6XttcGx4NvGC1H3ab+N/8AJxhkaamlyKjmy+nWuUVKtEl4yLJ8A5vuf6wl/SXBS5P1skOWZf2KGkpowFp9KBWdiX5vc+8Xc3sSBxh9UUkHqdKfWaUjtR7d9AfhHnGIj6LjqKrqKozrOKeWqzOaJ4qml0JJTpGwZQC1xyqbcezzvjmdmY9aVOJkqMs6DzKq6ZoWizn2pYVlUSxkNHcE6VcHVp34O3445Mhzc1ExnrUjWCYUU0dEl9jCXLsSPI5H5rfuxcqKUeW09NU5nFWSxJpad2jQv5sDYbWH0wSpmpRR1ZSamUtE7ORIg1HQRc77mwA+mBAPaJifdXP/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwP/xAAoEAACAgEDBAEEAwEAAAAAAAABAgMEEQUSIQAGEzFBIiNRYVJxgZH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAIxEAAQQABgIDAAAAAAAAAAAAAQACAxEEEiFBUWEicZGh8P/aAAwDAQACEQMRAD8A3SCKjX06tJPBXVBFGM+FSSSowAAMk9TtnXa12aOHR68MUbMwa49aMoNqsdvII5K4+cc8Drp3Dcsz1KFapF9iBY2nmHw4RSo9+8lf+k87cFRZjFgsbyyQRzNtWaJC5jJRl2bQM5V8Y+CMfjrOxEpDHCPVw+ruj8hHGQX1+9IvSr+oTSxLZj0sfcjV4/BGzHc6qQCAMYz7x1balQqihaWKpXIEMmXMK/xP66hE1FZ79aUgRNDMnjhIOZFEgY7Dk5UEEn1g4BAIPVC/cliaNY7NeKKO7E6RhGyyN4nYg5+fpORjj/D0rCyFnjK4kk8HgJsguiAmDaZW1DTa5nURs1dE3xgBnGwcEemH9/5jpS3a0kIarulWrIfqlinOFHyQGJYNwMDJXPPxjozTtSVoqam1WA2RDPkT1tH76K1LVopZ2WG3CIl4BEq8n8++r8gu90gtBUZ3TpfcuhyyW9EhpXYQjtO0sm0vF4yCrR8Z4JOQ3GAAAOoyTvu3Q0TSdRhqxyJM9iCWORmILrGBkEkkNtk4PoDI2knPWod4a3DV7fu2hahPjpMdvlU5faQBjPOSRx1jmjay+qT0NFsafotTTrHlncQQKN48bbmG5jsyUA+nHofrqyGEuaHiMENOputKNjvYiuO1FiZCx+UPou6vcL//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Second Skin</div>
-                                                <div class="unlocked">13 Jan 2021</div>
+                                                <div>Perked Up</div>
+                                                <div class="unlocked">18 Apr 2024</div>
                                             </div>
-                                            <div class="description">Craft 5 Pieces of Armor</div>
+                                            <div class="description">Fully Rank Up one Perk</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFCAb/xAAtEAACAgEDAgMHBQEAAAAAAAABAgMEBRESIQAGFDFRBxMiM0FSYSQyQkNiof/EABcBAQEBAQAAAAAAAAAAAAAAAAQCAAP/xAAjEQACAQMDBAMAAAAAAAAAAAABAhEAAzEEIVESFEHwcdHh/9oADAMBAAIRAxEAPwBS7y7lxnZ3blGzYx8VieeJUrxiFQrMEUnc2nwjn8k9TI8vBbxOGtU8ZWWXKwe9jEsa7YztBIPA18/UeXVrlbVdMNRqz1IbpsQptimClPhReW1B4Go+nR73z3niPe0MdHVaKzUdX3TQAwVtV402kE7dByunGo9QDxcvM6WjuBgDcV3e7pksqHEGd2nY8CK7DAZGC5dWnPWoyNJX8TFLGkZDpu2nyGhGv8gB6adXV+nV8Da0rV/kyf0r9p/HR1j+88bg8zj6+XLhDSQRWUiRViWQh9WVNQEOi7QpIVV1I1JPSXcYNjrDIysrQOQQdQRsOhB6vTo62lLSQcE+fujO6FyEOKrcpjpMn29BFVlEF1Io3rz8BonCjkEg6ajUeRHPI6zf3ymSxs1ObO1SMnIhErggB9CVVNF+FSoXnT/n10nRuDwVXS9S+TH5kfaP99B/tuqULPetWaL3M1+aqiy7HGxjuKxgjU8+vPpxx0rRuzXgLMBuT8H2MSBR9SLYQm8CRwPPvPE1FepX7to9rCnkq8WXFBa3gyrSMxRn2l2XhQQVIB59QAD0+UccuI7XixySNKtSmYRI3m21CNehP2aURR9psleOzAy44WQ0kkg2sQNmuuv1LcdNV69+hs62sf8AJfyk1P7T+etqD24Wz1lhnAETvG37UaUB+q4FgzHOK//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUABgcD/8QALRAAAgEDBAAEAwkAAAAAAAAAAQIDBAURAAYSIRMiMUEUUXEHJEJSYXKBobH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAhEQACAgEDBQEAAAAAAAAAAAABAgMRABIhkSMxQaHw8f/aAAwDAQACEQMRAD8A0aGngjo45JYI1SOFWc+EvQ4jUsNVBJtpqiR4g88CSxyFVPZkzgdewOPoNL9wSvT7WqJIg+DTKrFeyilQpP8AY70l2fuC1eLRW9TOlTFRmLhLEuFkB5no5znv+Bn6anZwrFBdCzz+4UekVqNWa+9ZZ/EkIBDDBGQcL2NcaqRjSzgtkGN/YflOgNt3OjudDzoWaRY8rIjDzJknGfnkdg+n+aOql4wTjIJEb+n7Tq0kbMKOMrBhamxjOr25BcKK201fL5HCysE/AqRZJJPWMlQR2ME6p+7bjbKC5bbq5bbLJNDE9VCaSfBkiDDgz81JwyrnGcqPnrSmo7dcaGk+MalmVYAoDVIA4sq8gQGGQcDIOkl42pb7tfLhca64j7zRCiiSN0HgDGGcEkgk+wxgZProo5AXJmuiK22wpo2aMLHV35yjbd+z17naILvbKpaFKpS0cEpZ2jXkR04xnOM9jrR9m23eInf4y7VEkCVE9JLFF51ThCz8izexPFfb1+etEsUFPaLNSW8V8E60yeGrsyISo9MgHGf199EVM9KtFVeHNTDlHIzcZEGSVPZ79dBKxklLgnnj1jw9OMR7fd8//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Ain't He the Cutest?</div>
-                                                <div class="unlocked">13 Jan 2021</div>
+                                                <div>A Fighting Chance</div>
+                                                <div class="unlocked">18 Apr 2024</div>
                                             </div>
-                                            <div class="description">Collect a Bobblehead</div>
+                                            <div class="description">Craft a Weapon</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+6 others...</div>
+                                            <div class="description ellipsis">+9 others...</div>
                                         </div>
                                     </div>
                                 </div>
