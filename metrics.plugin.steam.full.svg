@@ -174,7 +174,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYCBAUH/8QAKBAAAgICAQQBBAIDAAAAAAAAAQIDBAURIQASEzEiMkFRcQYUFVJh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEE/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAEQMSMRNB/9oADAMBAAIRAxEAPwDCqUlXENlbeTq4+o0wpwf2A7NPJrbCNV/HA542ffRad2nJVH+Ox0FlonKT3cszqTKSQESFX0FU8Et/32RrrnV3NyzWqtS5YZ6VKQSRI+ysXe3zA0DreyeQQT0wgWiTjgWNUWR4oXfuWJXbQ4Ykga42Ng697APWPLtXajp8oXGLLzUI4rEGSx8dOXyBYL2Jdn+W+A8TP2lSDrang/jXS3nakcGKls1svWydbvevKa/cPE/bsKwPvfPrjqWQgeG9NjoG88UF4CzBENxhQSV25+rem4PH3O/fSx/ILjVLs2NrvEtUr3ERgAPr6eAAOByQBwTok9TCWI7Fz4/Otu1A3cfIEp2YZPIbchDr9Ph0SFOzweFJ/fHWzQek8MS3VSpO9hoUd4vh3Bhogr7Uk7P7P+u+l6pl3qFghgmgbYaKX5KQTv8APH76tYC5jlySf37lylXjfvreLtmigfZILK3LLsn8++kdSbhI4FVN9JcfFV8cQluzS2FjYxuVjVyT3EMefWwSSDwNa30rTYq2aOQvzgRwU7ArbLd5kkYE+/vxz0XOW8Z5wmPs3bkPm81jzMsUUz72SgHyUE/rqtkcvLbpJWLxQ04Szx14uFUn7nfLH7bPURCOSu4PZ//Z" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Nobody’s Business but the Turks</div>
@@ -259,7 +259,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQCBQcG/8QALRAAAQMDAwIFBAIDAAAAAAAAAQIDBAUGEQASIQcxExQiQVEVJDJhQmSBodL/xAAYAQADAQEAAAAAAAAAAAAAAAABBAUCA//EACQRAAEDAgYCAwAAAAAAAAAAAAECAxEAMQQSIUFRcROBYaHh/9oADAMBAAIRAxEAPwAMOkQnunNrSRa1KjOFhsPSTCbK3vQnYtSin+WVE/vV3ctgUWPKoS59MpbTLmyLKcYioQCrJ9XCcAkfPxnS9tXI1N6T0amux/uDGahoyQQ6sJSEqAJBBGQDwfbnV00zWLopMdh9xIajxlvLdWtAJKE+gEAk49skD/Wsow7p1Vpqa4uYhoSAZqFZtW1KXflMS7blNdjvtKStpqElQBAxnYE4/wA+/Pxpq67dtBXT25HY1r0uJLRTZT0dZhNBQKUKOUrA/JJ9s7k457aFQH4/10vOOqDiGI4MeYQhDiFFRCgAdpCQd2FZJ9uey3VQMN2b5iM7BQiXGnBawfByrw1KAQg4J/Ao5H8/2NIPpfbfDaYgQN5PudujTTK0rb8nNA6WUWsRaZQZkKnsKgluOQXIyCrmKFB3eRu2Bascfv407Jp9wW67JlWzE83U0uLZnpRH8ZtaVYXu52qUdxPAHAyOwSdX3Tu97UidP7ZjyrlorMhmmRm3G3JraVIUG0gggngg+2uhN/2ee910Lj++1/1qwXiVJVFtue6khrKFJ5+uqxx64L5n1WK5KgzwGPR4LFH9O0kZBQU4UBtBAJ4IGMHnSfWyrt1K2PMhKJK5SFLdmBBSGVJbKBGCVEqQoElaknGSQQD31sVd6hW4KNM+l3VQ1TfDPg/fs8K+QCrBI5ODrF+ocigXRbUioM3PTjVWILnmBJnoUZBCCUpaSPUVE5744I4HYBam3MQ24U5Ym1job73/AH4KG3UsqRmmYv6tX//Z" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>…They're Action Figures</div>
