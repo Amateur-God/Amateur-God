@@ -123,9 +123,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.64189145481595" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="403.64189145481595" y="0" width="51.03920046574811" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="454.6810919205641" y="0" width="5.318908079435928" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="402.44437278297323" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="402.44437278297323" y="0" width="50.88777813608513" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="453.33215091905834" y="0" width="5.303128023218316" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="458.63527894227667" y="0" width="1.364721057723315" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -145,6 +146,12 @@
                             <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Batchfile
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Shell
                     </div>
                 </div>
             </section>
