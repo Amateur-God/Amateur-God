@@ -1,28 +1,23 @@
 <a href="https://github.com/Amateur-God">
   <img align="center" width="100%" src="./metrics.plugin.introduction.svg" />
 </a>
-
 <a href="https://github.com/Amateur-God">
   <img align="center" width="49%" src="./repositories.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
   <img align="center" width="49%" src="./acti_comm.svg" />
 </a>
-
 <a href="https://github.com/Amateur-God">
   <img align="center" width="49%" src="./iso_calender.svg" />
 </a>
-
 <a href="https://github.com/Amateur-God">
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
-
 <a href="https://github.com/Amateur-God">
     <img align="center" width="49%" src="./issue_pr_lang.svg" />
 </a>
-
 <a href="https://github.com/Amateur-God">
-    <img align="center" width="49%" src="./achievements.svg" />
+    <img align="center" width="49%" src="./metrics.plugin.code.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
     <img align="center" width="49%" src="./metrics.plugin.lines.history.svg" />
@@ -34,7 +29,7 @@
     <img align="center" width="49%" src="./metrics.plugin.activity.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
-    <img align="center" width="49%" src="./metrics.plugin.code.svg" />
+    <img align="center" width="49%" src="./achievements.svg" />
 </a>
 
 <!--
