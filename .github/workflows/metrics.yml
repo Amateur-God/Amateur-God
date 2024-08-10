@@ -128,6 +128,7 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_details: byte-size, percentage, lines
           plugin_languages_recent_load: 1000
+          plugin_languages_recent_days: 365
           plugin_followup_sections: repositories, user
           plugin_followup_archived: yes
 
