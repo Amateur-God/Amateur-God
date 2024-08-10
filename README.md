@@ -14,16 +14,16 @@
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+    <img align="center" width="100%" src="./issue_pr_lang.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
-    <img align="center" width="49%" src="./metrics.plugin.code.svg" />
+    <img align="center" width="100%" src="./metrics.plugin.code.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
-    <img align="center" width="49%" src="./metrics.plugin.lines.history.svg" />
+    <img align="center" width="100%" src="./metrics.plugin.lines.history.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
-    <img align="center" width="49%" src="./metrics.plugin.reactions.svg" />
+    <img align="center" width="100%" src="./metrics.plugin.reactions.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
     <img align="center" width="49%" src="./metrics.plugin.activity.svg" />
