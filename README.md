@@ -2,7 +2,7 @@
   <img align="center" width="100%" src="./metrics.plugin.introduction.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
-  <img align="center" width="49%" src="./repositories.svg" />
+  <img align="center" width="49%" src="./metrics.plugin.lines.history.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
   <img align="center" width="49%" src="./acti_comm.svg" />
@@ -18,9 +18,6 @@
 </a>
 <a href="https://github.com/Amateur-God">
     <img align="center" width="100%" src="./metrics.plugin.code.svg" />
-</a>
-<a href="https://github.com/Amateur-God">
-    <img align="center" width="100%" src="./metrics.plugin.lines.history.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
     <img align="center" width="100%" src="./metrics.plugin.reactions.svg" />
