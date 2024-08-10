@@ -121,13 +121,15 @@ jobs:
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
-          plugin_followup: yes
           plugin_languages: yes
+          plugin_followup: yes
           plugin_followup_indepth: yes
           plugin_languages_indepth: yes
           plugin_languages_sections: most-used, recently-used
           plugin_languages_details: byte-size, percentage, lines
           plugin_languages_recent_load: 1000
+          plugin_followup_sections: repositories, user
+          plugin_followup_archived: yes
 
   repositories:
     runs-on: ubuntu-latest
