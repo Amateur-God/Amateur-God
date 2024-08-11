@@ -86,16 +86,18 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <div style="width: 49%;">
-    <img src="./metrics.plugin.lines.history.svg" alt="Metrics Plugin Lines History" style="width: 100%;" />
-  </div>
-  <div style="width: 49%;">
-    <img src="./iso_calender.svg" alt="ISO Calendar" style="width: 100%; margin-bottom: 10px;" />
-    <img src="./github-habits.svg" alt="GitHub Habits" style="width: 100%; margin-bottom: 10px;" />
-    <img src="./metrics.plugin.reactions.svg" alt="Metrics Plugin Reactions" style="width: 100%;" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./metrics.plugin.lines.history.svg" alt="Metrics Plugin Lines History" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="./iso_calender.svg" alt="ISO Calendar" width="100%" /><br/>
+      <img src="./github-habits.svg" alt="GitHub Habits" width="100%" /><br/>
+      <img src="./metrics.plugin.reactions.svg" alt="Metrics Plugin Reactions" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <a href="https://github.com/Amateur-God">
   <img align="center" width="100%" src="./issue_pr_lang.svg" />
@@ -104,18 +106,20 @@
   <img align="center" width="100%" src="./metrics.plugin.code.svg" />
 </a>
 
-<div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <div style="width: 49%;">
-    <a href="https://github.com/Amateur-God">
-      <img align="center" width="100%" src="./metrics.plugin.activity.svg" alt="Activity Metrics" />
-    </a>
-  </div>
-  <div style="width: 49%;">
-    <a href="https://github.com/Amateur-God">
-      <img align="center" width="100%" src="./achievements.svg" alt="Achievements" />
-    </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=amateur-god" alt="amateur-god" />
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Amateur-God">
+        <img align="center" width="100%" src="./metrics.plugin.activity.svg" alt="Activity Metrics" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Amateur-God">
+        <img align="center" width="100%" src="./achievements.svg" alt="Achievements" />
+      </a><br/>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=amateur-god" alt="amateur-god" />
+      </a>
+    </td>
+  </tr>
+</table>
