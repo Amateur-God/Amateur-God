@@ -2,16 +2,19 @@
   <img align="center" width="100%" src="./metrics.plugin.introduction.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
-  <img align="center" width="49%" src="./metrics.plugin.lines.history.svg" />
+  <img align="left" width="49%" src="./metrics.plugin.lines.history.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
-  <img align="center" width="49%" src="./acti_comm.svg" />
+  <img align="right" width="49%" src="./acti_comm.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
-  <img align="center" width="49%" src="./iso_calender.svg" />
+  <img align="right" width="49%" src="./iso_calender.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
-  <img align="center" width="49%" src="./github-habits.svg" />
+  <img align="right" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/Amateur-God">
+    <img align="right" width="49%" src="./metrics.plugin.reactions.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
     <img align="center" width="100%" src="./issue_pr_lang.svg" />
@@ -20,13 +23,10 @@
     <img align="center" width="100%" src="./metrics.plugin.code.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
-    <img align="center" width="100%" src="./metrics.plugin.reactions.svg" />
+    <img align="left" width="49%" src="./metrics.plugin.activity.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
-    <img align="center" width="49%" src="./metrics.plugin.activity.svg" />
-</a>
-<a href="https://github.com/Amateur-God">
-    <img align="center" width="49%" src="./achievements.svg" />
+    <img align="right" width="49%" src="./achievements.svg" />
 </a>
 
 <!--
