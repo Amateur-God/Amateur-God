@@ -2,7 +2,7 @@
   <img align="center" width="100%" src="./metrics.plugin.introduction.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
-  <img align="left" width="49%" src="./metrics.plugin.lines.history.svg" />
+  <img align="left" width="48%" src="./metrics.plugin.lines.history.svg" />
 </a>
 <a href="https://github.com/Amateur-God">
   <img align="right" width="49%" src="./acti_comm.svg" />
