@@ -81,9 +81,6 @@
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
   <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer">
     <img src="https://cdn.statically.io/gh/github/explore/58ff7d84bcc6dff955c67ddba1f702c793dc670d/topics/batch-file/batch-file.png" alt="batch" width="40" height="40"/>
   </a>
