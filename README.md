@@ -6,19 +6,32 @@
 </p>
 
 - 🔭 I’m currently working on:
-  - [technitiumDNS Integration for Home Assistant](https://github.com/Amateur-God/home-assistant-technitiumdns)
-  - [Home assistant Addons (ADB-Server)](https://github.com/Amateur-God/Hassio-Addons)
-  - [ONI Recon Factions](https://github.com/Viking-Studios-Arma/ONI_Recon_Factions)
+  - [Personal](https://github.com/Amateur-God?tab=repositories)
+    - [technitiumDNS Integration for Home Assistant](https://github.com/Amateur-God/home-assistant-technitiumdns)
+    - [Home assistant Addons (ADB-Server)](https://github.com/Amateur-God/Hassio-Addons)
+    - [windowsRDP+FTP SSH tunnel script](https://github.com/Amateur-God/windowsRDP-FTP-SSH-tunnel-script)
+    - [EmbyArrSync](https://github.com/Amateur-God/EmbyArrSync)
+    - [Danbooru-Import-Scripts](https://github.com/Amateur-God/Danbooru-Import-Scripts)
+  - [Atlas Tech Solutions](https://github.com/orgs/Atlas-Tech-Solutions/repositories)
+    - [Node.js Website Template with CI/CD](https://github.com/Atlas-Tech-Solutions/Node.js-Website-Template-with-CI-CD)
+  - [Viking Studios](https://github.com/orgs/Viking-Studios-Arma/repositories)
+    - [ONI Recon Factions](https://github.com/Viking-Studios-Arma/ONI_Recon_Factions)
+    - [Milsim Tools](https://github.com/Viking-Studios-Arma/Milsim-Tools)
+    - [Backpack/Toolkit Drones](https://github.com/Viking-Studios-Arma/Backpack-Drones)
+    - [VSCogs](https://github.com/Viking-Studios-Arma/VSCogs)
 
-- 💬 Ask me about **Bash, Shell**
-- 🌱 I’m currently learning **JavaScript, C#**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mrhowe/)
+- 💬 Ask me about: **Python, Bash, Shell, PowerShell**
+- 🌱 I’m currently learning: **JavaScript, C#**
+- 📫 How to reach me: [Discord](https://www.discord.com/users/284372480620101633/)
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mrhowe/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/mrhowe/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="mrhowe" height="30" width="30" />
+  </a>
   <a href="https://discord.gg/2gexJGFU8j" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2gexJGFU8j" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2gexJGFU8j" height="40" width="40" />
   </a>
 </p>
 
