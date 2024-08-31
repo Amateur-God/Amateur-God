@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1378" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1372" class="">
     <defs>
         <style/>
     </defs>
@@ -268,7 +268,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        5 hours played
+                                        6 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -285,42 +285,42 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            12 / 68 achievements unlocked
+                                            15 / 68 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcI/8QALRAAAgIABQIEBQUBAAAAAAAAAQIDBAUGERIhAEEHEzFRFCIyYXEjQlKBocH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABURAQEAAAAAAAAAAAAAAAAAAAAx/9oADAMBAAIRAxEAPwDmrLWBXMw4klOggLEbnduFjXuzH26equBZToyx1BFaxy0dd0/nivXGnqQe4Hvz1XwXTCPDyCSBN1jF7DCXg/NDH6pxzoe/2J6JYHbS88mJX6MUdOkFWWaAbZJpChVIIlA03sB9woUuddNDNVFG/hGUbNyWg8VvA7inas3nixXY9iT2B454/I6SMx4HcwDEmp3lG7Tcjrysi9mB9utEzM9WqYcYgwyK9UtkrFNZ1YxSiMK0E6n96j5gRw3DjuAIxJ1xnw8sPKmk2D2VEJJ3FYZPRNT6gen9DpCpMIkbEfDqL4Qk2cHncyoOSYZOd34B/wAB6JZTmsY7VhwEBIDBuenZg0R68jD9SSX+cTBR5jHlAqsOAVOeZbx25l/EluUGG7Ta6Nysi91I9un/AA/MmWpo5nrXb2XJrGz4iKOBZopNrBgoPqF3AErqAdBqOB0hVnM9yfLla3l+Fo7ptqq4hbsASee6gFPJU/RGm7VH4L7t30kL0HxSOPBvDVhM7C5jM6ssTDQrFHyG/B/6Op58Zyrh8sdp7d/MFuEbYYpI/JhQbiwB7lQSdByBr6dJOZseu5ixR7t9wXPyoi8LGvZQPbpSP//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQHCAX/xAAtEAABAwIEBQMEAwEAAAAAAAACAQMEBREABhIhEzFBUWEHFGIiI4GRFTJCcf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFREBAQAAAAAAAAAAAAAAAAAAADH/2gAMAwEAAhEDEQA/AM05boUzMFSCHBFNSpqMy2FsepKvbDEIOTaUvANqZXZI7G6DvBZv8eqp55ecS8n0148pU2n06wz8xzCYJy3JoL3Hbp38Kt9r4ZxvT2rNSmmUyHT1j8RB9xNqpkei+5qgOinLdURMTVQD/j8m1ceC21Moclf6uE9xmb/Lqiedk84G5loM3LtSKHPBEK2oDHcXBXkQr2xomb6fRVb1xsrUtlXCNQAqs+JI19fDJbGu6pw7p5L8APUilI1l+qQHhXj0CU0LKqetUZdASQNX+kRSsi9hTCFRMmVThZQg1CLGbmS8vSXHDiuLsbbiLutuaJfly2XCh31ScpNYf9kT1VbcNT9xLluOo2hXurYmK6biv1Clk209EXFL5brkzL9SGZBJNVtJgW4uD1FU7YXe7ybV/vk/NoUktzaBrjM3+PVE/X/MIVaLnrDLj1qRGFyM/TzcJRlMgpIwiISCjSfTqHYFuV1RSLsiYCZ5qTxZSnzqk8btRr8oCFTshky0iIJL+ETfre/XHN9/k6kfeB+bXZA7gyTXBZv8uqp+08YHZlrszMNSKZPJNVtIAOwtj0EU7YUj/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Lower the Bridge</div>
+                                                <div>Driver</div>
                                                 <div class="unlocked">31 Aug 2024</div>
                                             </div>
-                                            <div class="description">Complete the VOLGA level.</div>
+                                            <div class="description">Drive the Bukhanka.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQGCAX/xAAtEAACAQMDAgQFBQEAAAAAAAABAgMEBREGEiEAEwdBUXEUIjFikRUjMoKhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAACAf/EABURAQEAAAAAAAAAAAAAAAAAAAAx/9oADAMBAAIRAxEAPwDNWmrDWahuS0dAg3Y3SSN/GNfNmPp1fFsmj7TABJHV32YEKZVl7MRP2Y5Yfn36h2pms3hzBJSNsq7xUOsjj6iKPjb7E/4T0meC98oqWgrJ7lVQ/HU9QghgkhDbYmUhmXAyuTxuGcYA4DE9TVQetZtHXfEEEdZZKtzhJGl70Wfu8wPx79UXUthrdPXN6KvQBgNyOvKyL5Mp9OtG+L9LHdkssVvnpZKqRpamsG1YRBHwFmm5Pa4O07jlto4JGOjTWtLTVWi6yOGsjuH6HVIlPWRoyCWF8DADc4ByBnyUdIVD02lPetE2+GaYwpaq3FW6ruaOmkPzShfPb9f6npx05pui0qa6mtF4pbha7rGlTEskoWVlTIJWWJlJwWQ4UcgtwSuDljTV9rNPXNK2hYbh8rxtysi+asPTpFtuotFVg70nxNjqG5eJYe9Dn1XHI9uPbpClnXlsoLtoSWslu0f7U/YoFRxDBM8ZOd4xlzjeAx5ACkAFjkd1IBZfDuaKoYfE3idGiTGCIk5JI9/+jrq1mr9HW2EvAau9VIO5UMfZjJ+4nkjgdF+qNQVupLo9dcHG8/Kka8LGvkqj062kf//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwUGCAH/xAAtEAACAgEDAwMCBQUAAAAAAAABAgMEBQYRIQASQRMiUTFxBzJhYpEUQlKx8P/EABYBAQEBAAAAAAAAAAAAAAAAAAACAf/EABURAQEAAAAAAAAAAAAAAAAAAAAx/9oADAMBAAIRAxEAPwDNWmsDc1Fk0pUFHdt3O7cLGvlmPx1dhidIYmP02hu52deHlSUQw7/t8kfyP16kfw/xzLpfGwVlHrZq4TZfcAitEfcPttvx5BPTBqXS2CxOSsZd6mNGncikr3msViz1GK7I1dh+UszDZNvqCd9tgJqoEI8VovNEQqLenpm4FiST14Af3eQP+36o2o8Hc0/kmp30AbbuR15WRfDA/HWqNK6Nweay1C7XqYybAY9K5oyV65WS7KF7XNhzt3FXXcptySpJ+oIrq2CPI6Py/uEhweSaOtLtyYHcgD7Dx+gHSFd0pO9/QVc0ZpIr2Fss7GJirpG+5DgjkbH/AEemTSFh9UV/6DOWJsxXvVBZSKVW9GqVYLMHYAEnvHsO5IJH0HPWXdM567p3JpdoMO4DtdG5WRfKsPjpVwGv8EkkFqpkcjp21G7OYI4/WgJYKG2Hwe1dx9OBx0hS7lczjtFB8O9Rq1U02eCOGNnjmUswCp3HZWIJ7mJ/Nyd+OgrUhXDfhzNDKpSxmLCNFGTuRFH/AHfY7DnzuOpLPa309Jknyt2/kdR5HbaOOSP0IE8gdv8AiPgfx0Y6nz93UeUe7fYdx9qRrwsa+FUfHW0j/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Friend of the Crew</div>
+                                                <div>Spoiled dinner</div>
                                                 <div class="unlocked">31 Aug 2024</div>
                                             </div>
-                                            <div class="description">Find the guitar and teddy bear on the VOLGA level.</div>
+                                            <div class="description">Complete the YAMANTAU level.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcBBQj/xAAqEAACAQIFAgYDAQEAAAAAAAABAgMEBQAGERIhE0EHIjFRcZEyYWJCof/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFREBAQAAAAAAAAAAAAAAAAAAADH/2gAMAwEAAhEDEQA/APNWWrFWZhuaUVAo3EbnduFjXuzH2w4FoydaF6UsVZfKleHkWXoxa/z3I/fI/eMy9CaDw+plpjsqb3VmOWQDkRKdu34JP0Tipy+G1rkpqZILe1OxaAdaStkZp0kl6OvGqqQefx+9cTVRLHtWTbsnSjirbHUN+ErS9aHX+teQPr5wIzJYqzL1yajr1G7Tcjrysi9mU+2LLePC+WKVmsd0pp2RiOjPIqtqOwfj/qjB3OdprFyLPBeaaWCvs08Zi6mhboScAajgjX0I9hhCsybsvGSKOOKaOKos1YXk6mpAjc7gx0526jk9gD84d3LP1whigQXmzOYyGPQpXk8qyLIiccEqQfMT6MfXECy1fqzL1yWsoHAbTa6Nysi91Ye2H0d8ybdoN0z1djqCdWRIutHr/OnIH18YQpbV+Kl8qElK1hkRSSFFHTxag8AEFZPT37+w0xwfEO/1VXkp6i7NpW3aSNYU1GohjJbdwB6kk+n+hjlPdsm2kdaKWtvlSo8kTRdGHXtu15I/XPxgPmW/VuYrm1bXsN2m1EXhY17Ko9sKR//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwYIAwQF/8QALxAAAQMCBQMCAwkAAAAAAAAAAQIDBAURAAYSEyEHMVFBsRQVgSIlQmFicbLR8P/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAAAx/9oADAMBAAIRAxEAPwCtOW6FMzBUkw4KRqtqWtXCW0+qlHxhPy7kSkynlxKZRqrmWUzp330OCNHbuLiyifUcjvcci+OBSvujpw0uPw/WJCw6sd9pvjT+xPucN3SGvx4GR6DDYpk1/wCJlPtvvspGhlYutbjqjYBIRo5v2SfFsZrUGuYun9JibbFWpNTyzIeJSxIW8mRGWrwVA/1gszNQZuXamuFPSNQ+0hxPKXE+iknxi1vVGvxZuS6/Ecgy0IjOMbMlxA2nlKOttxpQuFApCufCvztgMzKkVfp686+LyKTIQGlnvtOcafofYYsK1aTar9OWkMG8ijyFqdR3O05zq+h9jif9KKnUY4XSokoVCLKjLEOnSnlNRnXVKG6yq4sV6CVWB/kQRDLVemZdqaJsBQ1AaVtrF0OJ9UqHjCBFzDlCoNbinZdEkHVdjZ+IjpUoWKkD8J8Hi1ha1hiQpF6qvVZNEkszW3KREcDDMKjNTEuNhplSi68UpAGm5aAv5HiwL64r5V07eRIJEisSEFpB7hpvnV9T7jGV2s5OpaQ627NrslBuhtbWy1f9V+SP9bEFzLXpmYamubPUCq2lCE8JbT6JA8YUj//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Long distance passenger</div>
+                                                <div>Righteous vengeance</div>
                                                 <div class="unlocked">31 Aug 2024</div>
                                             </div>
-                                            <div class="description">Find the passenger train car.</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+9 others...</div>
+                                            <div class="description ellipsis">+12 others...</div>
                                         </div>
                                     </div>
                                 </div>
