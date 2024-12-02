@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1440" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1434" class="">
     <defs>
         <style/>
     </defs>
@@ -268,7 +268,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        6 hours played
+                                        7 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -285,42 +285,42 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            6 / 83 achievements unlocked
+                                            9 / 83 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQGBQD/xAAxEAABAwIFAQUGBwAAAAAAAAABAgMEBREABhIhMUEHExQiIxUlMlFSYSRCVmJxlNL/xAAaAQABBQEAAAAAAAAAAAAAAAAAAgMEBQYH/8QAJhEAAgEDBAEDBQAAAAAAAAAAAQIRAAMhBBIxQQVCUXETImGB0f/aAAwDAQACEQMRAD8AxgKXSaBSH5FIaqEmch15a3n3EBAS4pASkII+m9zfnC/tqkfpaD/akf7xtN5XrGZcuUAUWJ4jw0N1TvqJRpBkOW+Ii/B4wzligZuyxVzpoKJzMhAbfjO6HGnElVwFG+1lAG/2xndjyIGMdT1XcW1OnCvuuTcBb7TcK+ox3jHGP7SVdTT6I3A8blumCRLYEgxxKk62Uk+XX59iRvb5HfCPuqrUGrvR6Q1T5MFtt5C2X3FhYU4lBSoLJ+q9xbjD1eyfmufUpNQqrcVUmRIUlxZnMH1OqNl7EC23QYDHotQotDzQzU4q46zHQgarEEolNpVYjmx64CGkyuPj8UWrln6aFb255XhyRlhIAnIjHxzV72dIWrKkUtpUpQgrskL0X9d/Yq6fz05wZyQzGq+WmpDSta5pSG/aZfNiCB6ieUhVjp3t12OMLs/zlSqRQWI8t2MHEsqjusym3LEd4tYUkoQoEEOEEG3GCysxZefrdHnok0hhimqWtENpp8NKUr81u62VcJN9/hGJKuuxcicVQXtJqDq7xa020loIBzgxx7nuP3V4pxRS5dco3nqJ91Juebn7j9/JxH9pr0d1uulmQy8sQE6w2vUU/jEWCvkedsc/nKiqCgzU46dTpf8AO/LVZe/yaG2/GJvNlfpsuFWnW6ixLl1EJSG2GFp0HvUuKJUpKfL5bAbm5wq7dUqQDTfjvH37eoR2RhBHpjsewr//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABQMEBgAB/8QAMhAAAQMCBAUBBAsAAAAAAAAAAQIDBAURAAYSIQcTIjFRYRRBUrEVJCU0NkNWdJS00v/EABkBAAIDAQAAAAAAAAAAAAAAAAMFAgQGB//EACMRAAEEAQQCAwEAAAAAAAAAAAECAxEhAAQSMUFRYQUTIrH/2gAMAwEAAhEDEQA/ABgKXSaBSH5FIaqEmch15a3n3EBAS4pASkII+G9zfviv9NUj9LQf5Uj/AHjsw/hvK37V7+w5iHKeYnsuz1vIjx5cd5HLfiyEBSHU3BAPixAIPpjNTBA4FdDxnew0VtKcEqVKq3qHCiI5gVxjldTT6I3A9ty3TBIlsCQY4lSdbKSenX17Eje3g74o/ZVWoNXej0hqnyYLbbyFsvuLCwpxKClQWT8V7i3bBqk1TNdcekG8mdLeGpSlBAK1GyUgkgDwBhSBT5dMouao89hbDwiMnQsb/eWx8wcSncaFX16wewMoSFLP2SmRuV2oTRPHVjPJ0J6pUrJ0KKAp99h1tAJsLmS53PjDuVeG63ZiRmVxcUl/ktwmlAvPkAlVrXsBbv8ALF3h9m6kUamwnH3YyKhGZXG+sJd6QXVOakFCFXB1WINj0+8Y2CeKNGQ4hxpdIS62CltdpHQCd/ye+539T5ODtttGFLV4rE2v1nyjZWxpWTtlX6i7UTXqx78Yvl+gZZgexw+TBQtMlEmKQ7rWuxST1dzZSTuBuLDYXwDxiDy6VU35LbKVriaQprcLSJLNlX94ItsexuMTu8UaK40tvmUxIWnQspVJBWnfpJ5N7bnGV4i52pdbokhqM9HL62Ux22owdItzELKlFaEgWDYG1yb+mLDjjX1lKSMSfH6HXnXNvPNqiRJMmLH97z//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>NEXUS-47</div>
-                                                <div class="unlocked">1 Dec 2024</div>
+                                                <div>Nightmare Fuel</div>
+                                                <div class="unlocked">2 Dec 2024</div>
                                             </div>
-                                            <div class="description">Complete End Of An Era.</div>
+                                            <div class="description">Complete Untouchable.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwD/xAAzEAABBAEDAQMKBgMAAAAAAAABAgMEBREABhIxIUFRBxMUFSI2UnSBkSNEVmFxtJTS8P/EABoBAAEFAQAAAAAAAAAAAAAAAAEAAgMFBgf/xAAiEQACAQMEAwEBAAAAAAAAAAABAhEAAyEEMUFRBRJhIhT/2gAMAwEAAhEDEQA/AEwFXU0FQ/IqGrCROQ68tbz7iAgJcUgJSEEfDnJz10P66p/0tB/ypH++u3D7t7W+Ve/sOax2nuF7bs9byY0eZGeR5t+LIQFIdTkEA+GCAQf21mpgxsMcDqu9raL2muCWaWx7sNmIjeBjand6mvpG4Hpu26wPy2BI9HEqTzZST7PP2+wkduPA9ugiKu2oLd+PUNV8iChp5C2X3FhYU4lBSoLJ+LORjppDb2Mq3s5NhPcLsqQsuOKPeT4eAHQDw02297t7p+VZ/sN6Pt7NA2zwOqB07WbSs7H3lZ/TRlhIgnaDGadMViLOhpEOloBuqmOJK3OOFB5wpPUd4/gd+tZPkuvlsRzBiFx5KUpfQVpBSs5OR29Mcfv9haqygrpq5HrdivlxosiE6iRHccC0OqUeSSlJHRZHbjBGrJnfMVDMTluCIl9s5ecbae/FwnCcJUyoJ/7pqZFtMP385FVWpveQsOf5RIlsFWPJI24Pz5Um35MrxitkvWMQx3uBLSC4jsKSCSo56ceR+h+qyqiORNubmDi2F8orJHmnkufmG+vEnGr9e+Yi5janb2E9FAw42409yV7PHAKWQnGPFJz26ldyXcB6utyixhyXpbaI7DEOGpkNoDwcJWooSDjjjOMnPdpOlpcoe+uqdptV5C8wTUpuVOFYRDDGR8nNf//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgMEBQIH/8QANRAAAQMDAQQGBwkAAAAAAAAAAgEDBAUGEQAHEhMhFCIxQUKRCBUWI1FSYTI2YnF1gaGxs//EABkBAAIDAQAAAAAAAAAAAAAAAAIDAQUGB//EACYRAAIBAwMEAQUAAAAAAAAAAAECAwAEERIhQQUTMcEUQlFhgbH/2gAMAwEAAhEDEQA/AMZEpdJoFIfkUhqoSZwOvGbz7gICC4QIIoCp8ucrnt1btxYNfqgwIVrQOMrbjnOVIxgAUl8ffjH5rqSDR/aArEpW+rYym3QIxTKiPSHFVU/ZF0m2AUsmNotUbeDe6FGdaIsckLiCP8ohaz8aFnVeDjgfYGu1310kFrPLqOtQxxqYfUyjnHFQ7ObYgXu1OcjUalxEiEAqjj0kt7eRfg59NZ98W1T6SVdgJBjsTKawxJB+M66omhmIqJCZF3FnKY7NP/R6jrEl3dGIFbVmWDe6vhwriY0e2ufeW9f06H/q1p5jX44fG5z7qniv5j1p7ZXPbXSQMnkp+d/JrrZE025cFnE4CETdNmGCr4V47iZ8lXS/Zy02ztXv0GhQB4jRYT4qqqq+arrzSwboptHWjTXJrDMqBHfimxIbdwaG4poQkAl82MLjs1u0C+KbSLsrtbSqU11aooqrO5ITh7v14XPy0UMiKEyfB9YpPVbC6mkuAiMQy4Gx3Pd1fzfPilOzV2a3eN/dCitPotS63Ef4eOs5+Fc6G7UTfOv3oUpoGXfV8TIA5vonvmu/Cf1q5at9Uy36lXZoVKnPu1WUsk0UZAo2mVVBT3XP7S89H79ual1cq1PZmMuzKjHYjIwwDioO44JKakYDhMCiY5811EkimHTq3390VlZXCdTMzREKQgzg+Roz+tjxX//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Death of the Party</div>
-                                                <div class="unlocked">1 Dec 2024</div>
+                                                <div>Bullet Train</div>
+                                                <div class="unlocked">2 Dec 2024</div>
                                             </div>
-                                            <div class="description">Complete Apex Predator.</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAAMH/8QAMhAAAQMDAwECDQUAAAAAAAAAAQIDBQQGEQASITEiUQcTFBUyNkFScXSBsbQjVpGU0v/EABgBAAIDAAAAAAAAAAAAAAAAAAAGAQQH/8QAJREAAQMDAwMFAAAAAAAAAAAAAQIDEQAhQQQFEhMxUSIjQnGh/9oADAMBAAIRAxEAPwBIBFRNvxD9RENSFTXIceWt59xAQEuKQEpCCPdzk566H89Q/wC1qH+1Uf71lw+rVrfKvfkOa2WBIyMfMFMdGtyqahIaeonG96XRuG0HuwraQe/SrPqCfrAOK3rh7K3jJIKvmpIsojzAt2xTGeTHwiKAVttRgfqmBUFgVVTvZST2Qsb+CRzjuPOgsRUtAS79PENR9TQttvIWy+4sLCnUoKVBZPvZyMdNK7p86uTlXUT7byJB5xS3Q6nBznB47hjH00Zb3q3dPyjP5Dep5SoiLXwPFAZLbCHCslUpuFKIuoSO9xir+wLXjrioIR2bK/IKOgcUQg43LVVOBIJ7uD8c6t421oO05Csko5p5pwoNKptzlA3bVe3p6I/nXPbEvCNi7dYpnqtlh9LRYcQ8hz2PKdSpKkIUCDuIIODxqhkvCJGVjNU2mvikePVv7SKhQScAcDxXTj76vsrZSgExypR3HTbk7qXEJCukSbCYiZ/ZNUMla8JdshRyMi0864lApUtt9lB27lezr6RH01E3/a8dbtBNuwhX5BWx7asLOdriatsKAPdyPhjTSM8IkZRs0yFV8UvxKt/ZRUJCjgjn9Lpz9tT993jGyluv0rNWy88Wgw2hlDmeXkuqUpS0JAA2YAGTzoeWypBIjlRt2m3JrUtoUFdIEWMxEz4xAr//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcC/8QANRAAAQMCBAMFAw0AAAAAAAAAAQIDBAURAAYSIRMxYQcUIkFRFSNSJCUyNkRWY2R0lLTB0v/EABoBAAEFAQAAAAAAAAAAAAAAAAYAAQMEBQf/xAAmEQABAwIFAwUAAAAAAAAAAAABAgMRACEEBRJBURMiMRRCYXHw/9oADAMBAAIRAxEAPwAMBS6TQKQ/IpDVQkzkOvLW8+4gICXFICUhBHw3ub88V/bVI+60H91I/wB4krLDsmg5UZjtOOurjPBKG0lSie8OcgMc5TqlRy5Kky0U0S4VgzMYkMFTShe4SrbwkEAjqMDc3A2tsOK70Eam1LklUqtrUPcQB5gcCildTT6I3A77lumCRLYEgxxKk62Uk+HX49iRvb0O+KPzVVqDV3o9Iap8mC228hbL7iwsKcSgpUFk/Fe4tywBq9RlVapyZ890uypCy44s+ZP9eQGC2Xvq5mn9Iz/IbwtWpRA8X2HFP6dTLSVLUdcpnuVF1CRBPi8XrReygqTU8sltJUsUqXYAE/aVemNGq8ScvL2Y2G4LzjksP6EJbIKipoAW8jv5nGQZJzLR4FJhCXL4EuOw5GUhSnW7guqcCgW0KuDqtY2sR1wyHPVDJ3qLe/5qV1/B6nF5l1ARBP6IoNzTL8U7jFONtqIBOxv3E8jmoj2ZZdTP9naqn3xTGsfKEbK4eq1tHO+1sIjNFqNDo+Z41XhvRH1QmFhLibXBkN7j1w9Lz3CPu0VyKmPy0nvBX9IKPi4XO+17ctsA87ZnpE+izG4swvyHmUx0NpW85YcVCyolxCbbItYXJv0xE4GolJvetLAuZl1EtvpUUkpkkG0KBn4ncX+6/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Master of the Household</div>
-                                                <div class="unlocked">1 Dec 2024</div>
+                                                <div>The Last Tango</div>
+                                                <div class="unlocked">2 Dec 2024</div>
                                             </div>
-                                            <div class="description">Complete Death In The Family.</div>
+                                            <div class="description">Complete The Farewell.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+3 others...</div>
+                                            <div class="description ellipsis">+6 others...</div>
                                         </div>
                                     </div>
                                 </div>
