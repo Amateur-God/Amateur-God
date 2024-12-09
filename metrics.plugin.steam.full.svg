@@ -285,7 +285,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            5 / 452 achievements unlocked
+                                            6 / 452 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYBBQcD/8QAKRAAAQQBAwMEAgMBAAAAAAAAAQIDBAURAAYhEjFBBxMUUSKBIzJSYf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAA//EAB0RAQEAAgIDAQAAAAAAAAAAAAECABEDMRIhIiP/2gAMAwEAAhEDEQA/ALratLtdO3VTty7ilVjXyFx4sZh5DKEttpQMJSEFSjk5J55POpa2zti73BIiVVlbWdcwwHSuPYH3FqBPUlKsAZAwenzg86yixxbQILRs0R/akPuEOkAJCw2B0+T/AE5486cPT25h7YsITLEwTpK3gVBtKisjz4weCfrGNZDXk76x14ECd5U7cg7dtrezasZ17UstyER2WUTit9rKjlbnUCO2AeMd+dO276La1ZFYi024rCzdce9l+PJUl9lxotryM9AAOQCFA5z28aHuGJ1gbC/qKhuTElOKcRNZ6HEISP8AgOQQAM5Gc540l1UiPPoHrZV5HEj30uJgOLAeWEhaSSO5V+WfofrRlYfp7xV+nuTWsQVsvMOSFmQ+hHWQlIGU9h2HnvrWvTsRqz0isb6S0wbSU+qE28gc47HH1wFZA86yS3qrSfLXNppEdyC6EqQtE1lOcoTkFKlggg5BBGrqbbT4vp5UUMcsGUw4887iUyOlazgHPV3CRxjySdKSilXLkYqZA9mHbV3pM2tdTHaOXhCVn5Ud1tSo6x/lWMjI7Z4I+9dd1R667s2b/bqfiNuqPzYBIUG1lKvzbUOFJJ/f2PtYrFiLCdQVNqKkD+L5DQyrtjPVjQ1BVO1stFhIfYj17YWt5S5bRz+CsAJSoqUSSAABoxTTqpx3xnGDFb3n/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Junior Sergeant</div>
+                                                <div class="unlocked">9 Dec 2024</div>
+                                            </div>
+                                            <div class="description">Reach the rank of Junior Sergeant</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -309,18 +319,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwT/xAArEAACAgIABAYBBAMAAAAAAAABAgMEBREABhIhBxMUMUFxIiNCUYFhwdH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQIE/8QAHREBAAMAAgMBAAAAAAAAAAAAAQACAxEhBBIiMf/aAAwDAQACEQMRAD8AcfDTkGhzBgZ7VvI5KCKOw1eGCpIkMUUaKgAAC7J2SSSe++JhzJHA/NGSx9FMwsFIMjRWLxMjsrkM+0A0NaIHf+f8cF+X/E+Pl7kDKYeg7DL3LMjrPNIiRV1dUXa7OydAn27E8IuAuemzkcz3o7DO6q6xuzuV9j3I2ex4yb7cCVe5s8fx2zzY6lhTkTw2yE0larzfm6NiMBjJJkdKw6Q34tIvSwAPwfjgRzRS5NqR16HL/MuRy88kvlWIJyJ4HiMb7BbywAdgEEHe/b44nWchszTTXsbRjnqysfKnUrImt6Ghvsf52N7+ONcfJRo4uqwy8U+TkmDzwCXqZelH0D9bP9/XDx1toydsK5H7yxNsyY+qtr15kWUSdKBN9T/ipHb2PvrZ4e+WadbGeFOUzc0axXrNo0Ym920QDr+l2e3CdkMTJkrRu1I6lyk/S8Ui3IV90XYKs4YEHYII41y1u6vJuKwVZYh6axNZkBtw663IA/f30q6H2eK0G/zxFk+j7L1OfE5W7hnks09ipKf1IpVJik+/+9uCjvi8qfX0/MiuuygxBgV6Qr9R2Ox+O/z89x3FSZW4kJrVKVUxEdJMtmH2+uv/AHxz4PENj76ZKeStWx8XW8rPaiP7G0FVWLEkkAADgMithIOzeqWJ/9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Corporal</div>
-                                                <div class="unlocked">16 Nov 2024</div>
-                                            </div>
-                                            <div class="description">Reach the rank of Corporal</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+2 others...</div>
+                                            <div class="description ellipsis">+3 others...</div>
                                         </div>
                                     </div>
                                 </div>
