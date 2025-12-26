@@ -252,6 +252,66 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAABgcAAQgCAwX/xAAvEAABAwIDBgUDBQAAAAAAAAABAAIDBAUGERIHISIxcYEVI0FRYRMykRQzQqHB/8QAGwEAAQQDAAAAAAAAAAAAAAAABgACAwUBBAf/xAApEQABBAEDBAEDBQAAAAAAAAABAAIDBAURIUEGEzGBURKx0SIjcaHx/9oADAMBAAIRAxEAPwDKiiiiSS7AjLAmEW4gjmmncWQt3A+5QY3+1oHAdtNrw3TwvGTpPMJ6qqy9t1aD9B0cfCvcBQbcs/uDVrRul3jXBMdjt0dTTOc8ajr355BAX+rRmIqZtztddQAZvdH+FneeMxTyxH+Di38FMw1x9mIiU6uH2UnUOPjqTNdENGn7jyuhRWVSuEPKKKKJJL2sJ0HiN/o6fLNheNXRaJjaIYmMJGljQ3sAlXsdteuaor5W5t06WH2IKPMaV4t+HqycOykDOHqhDMyGxabA3jb2V0Dp6IVKLrL+dT6C44WqTX089WfWV8XYFKHaNbPDcSTMYPLkAeD8lNjADopcNQuhPC9xc7qeaH9r9t+vbYKyMcUTiXn4Sx8/YvlnB2/CWVrG1i2yeXAfV+UnFFZ5qkXrn655blZ3gBUBu38l7WD7ebjiGjgc3OMvGromSPEbS8+ApIYzK9sbfJOidOBrb4XhumhyGp/mHuhHbJccoaahYeLVqcB7EJmRMbFE1rftY3SOyQGO7l4niSeVpzazyx2QjiGGzcMzuN/ZR9npG08eK7OdB6CN9jdyL6Spt7j+15g7lHN/ofEbLV0eQP1WZdEktntwdQYnpd+Ucrg1/RP3MOAcw8LkzMxmvb7jed/ak6emFqj2X8bH+P8AFmKpiMFRNEebHln4XSQivaRbRbcSSiJuUcgDu5QqRlyRfBKJo2yDkIBtQGvM+I+QVBy5pn7HLaNdRXvbm0jS0n0IKWCa2D8W2izWSKlcQJAS47/UrQy/cNcsiGpKs8B2W2xLO4ANHPyjfFVd4dYq2pDgCxmbeqztNKZZpJDze4uPdMLaFjCmu9tipaAnIuOvf6Jc8txUWEqOghLnjQk/0tjqS+y1O1sZ1a0cfJXOGV8ErJGHJzTmCFo7D1YyusdNNG4HgAJ+clm8jcEyNn+MaSz2c0dcTwuLgc/dYzdR1iIOjGpBWem7zKszmSnRrhz8heztetv6i1QVcbeOIkvPwk7mdOR5JxX3G9nuNnqqUkEzN08+STzwA94b9oO7on4USsg7crSNDso+ojBJZE0DgdRvp8r/2Q==" alt="" />
+                            <div class="about">
+                                <div class="name">The Last Caretaker</div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        </svg>
+                                        Action, Adventure, Indie, Simulation, Early Access
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
+                                        </svg>
+                                        3 hours played
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
+                                        </svg>
+                                        Last played on 26 Dec 2025
+                                    </div>
+                                </div>
+                                <div class="achievements">
+                                    <div class="infos">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
+                                            </svg>
+                                            2 / 13 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwUDBAYI/8QAKxAAAgIBAwIDCAMAAAAAAAAAAQIDBBEAEiEFBgcxYRMUIiNBUXGBMlKh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQUAAgP/xAAiEQACAgIBAwUAAAAAAAAAAAABAgADBBEFEiGxMUGBkaH/2gAMAwEAAhEDEQA/ABup0iCdnykUaCRo1xDvPGPPkffXQ1e10rwRye8yRRS5KEVMK2CM4+PnnWbtmtFNXjE8qwI9yZWkYEhR8HPGk3w26V0+3cWS3YWexDloa2CQoB/mcjH4H709x8LHOOLbF39xdZdZ1lVPiFVztyIIYnuSHHBWSsfTgjf6ai3OhxVJijxxsUdQ6tBsOCwH9jzzr0J4mdKoKkd726VeonJXg/O24+o8mGRg6JOvNJaiuWbDmSYmMsx8z81Bo2YWO1BtRdaB9zIt1gcKT4mt29eavRliTZ8yedG3KG4Ozyz5Hjz0meHD163dEgisrLF7scSEbBk7cjnQPV6sYyzwglXcuFeENgnz+vpqpB3NcyiolXLHaN1RP9yeNY0cjUlAqbfpLPjuXLCPPidnqE3SYKjRySMZcAOPsv10U9wXfea9gtHFG22FNsa7R8MiDP541Atdy34ZnikjpllOCY6sbD9ENg6mWutyTDMw2qCGYRwKmQCDjOfTRbkqTQak33B/fmBcdy4Yz//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Apprentice caretaker</div>
+                                                <div class="unlocked">25 Dec 2025</div>
+                                            </div>
+                                            <div class="description">Reach player level 5</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwQGBQj/xAArEAACAQIFAwIGAwAAAAAAAAABAgMEEQAFEiExBhNBIlEUMmGBsrMHceH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgUAA//EACARAAICAgICAwAAAAAAAAAAAAECAAMEIQURErETQWH/2gAMAwEAAhEDEQA/ABulyiCdnukUaCRo1tDrO1udx7412SdCT1VIJqGoJVnKiOOnAY2tc218Da5xHkkQOX6/Jq5h+GFf+OIqqLLKyVY5TTyOO26MD6l5Gnmx2uR/uLlGDScZbWGz+mTnus8yoPqHGadAVVNQzSVczKkViySwbkbC4GvcXt98ZCpyaCBxZYpFDKGvDp2LAc6j749Adcx11T02rtDKFSQSTsTpVdrABeSL7/374Jc0iHwVS1t1MX7Uwz4FHwNYBsd/ZmW+wOAT6kuSzhaLtk7/ABUx/DCv0kpoMpE8EimWeMThzDITH6wpUEG1vJPnjAFS5sYyzwglXcuFeENYnnz9Md+k64zmKOKCCoRUt21UwKABe9vm2F98caeRrSham71GfHcuWEbeqdeZUFUk7r3EMsocQSagEPybm1jf7YI8zlBoalb7t2v2piSt65z5JZYZ6lGPqV9EKOp1c7hrG/nGfqs7kmF5hpUEMwjgVLgEG17/AEwW5Oo0NWvexAuO5YNP/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Last librarian.</div>
+                                                <div class="unlocked">25 Dec 2025</div>
+                                            </div>
+                                            <div class="description">Collect 10 memories.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="media largeable-width-half">
                             <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAACAMEBgcBAgUJ/8QALxAAAQMCBQMDAgYDAAAAAAAAAQIDBAARBQYHEiETMUEIIjJRsRQVU2GBkSNxwf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQA/8QAIREAAwEAAQMFAQAAAAAAAAAAAAECAxETITEEBRIiQVH/2gAMAwEAAhEDEQA/ABxwLDZmMYmzCw1BckSDsSkVPDpDnBNg5hT6leLCubon7dT8CTZQUl8G38UdD6d4QslW+5sAaVsf4K7ARzJkXMOXoK5uIwHWG+xUocCoW66jdf5KI8USvqBzik4rLyoWFpHSSveo35VQzODpuKRwUXIvXJltMlMSb9QbUqSOQe30qw8I0wzTi2FInwsNeXDWLoUB8jVa7LJCudt+/wBaNTTbUGNH0wy6lMRwiY+qIQD8No+Rp5XYzA8q0nzh0SU4S+m/FyKjOa8t4rluQhnFmS0VgdxajskEuNI6ZXYi/ehn9UBvjUYbSbAfalnyMiEaIDdqpgBP64+1HY6LHgeTQKaHgnVTL9v1/wDlHu2yD8vqaDQq5iwYPU5kyU/OOZ4ybNBAQ+bfFI80MTp72Nxe969BNcWmV6X4+iQpKErjkc+Oa8+1+3cgHcm/BrpRfS3USOFRVNwG5ClgtrUU2onvTfDmYhkuCiXHCsNjyluIXt7qPcXoXGFXKG3VHpbuRej20Pcw1zT2CMGW2plB5A8qtyKtK7GclTrKQEhIsnwKFv1TICcwR+bcD7UWTjYJueL0KXqvQE5gj/6H2qS8hIDoc4hGquBLcISjrjcT2AtRZ561myplZiQkTG5eINg7Y7auSaBBp91o72Xi06OUlBsr+6buOLeX1H1rcUT7lKNz/dE6m0+Sys/6uYznF6aJJLcR1OxLQ4AH71WXBuU+OawolPAPFbNi6rW+XFcO27SSMobU5wgbj+1ETiOP4hpzozldeAym25q5i3HApN+CL81UEaI1g2Jw+u+0Yzu0rUR2vUq1rkgM4bFjOh2HsSpG3sCRWjJc5ti756Ya9Ky+sh6+Zax2MwnHF/lktKQlZdVwtXki3iqy9UmIwcUxmHIwqQiVHUke9B47UPd7Ek/xTpD7rgIdeWuw9oUom1Z/wH1lGjlii/n6025FO9gKCKTDIIrgqlaEO9qdwWw7JQgm1zSfR43DsKWb/wAbqFp7igymFJUuSeS4kFmG0mcC4XAAOe1cbN+KsyIETD46FAMqvuUbm1qaTMYXJDQcG3bwm9c6e9+IQg3BUDzaqY2+m0avd9c/Ub9SP4jmqFiKWZsTWC1upRtISKRd0YW3nPLR/9k=" alt="" />
                             <div class="about">
                                 <div class="name">HITMAN World of Assassination</div>
@@ -321,66 +381,6 @@
                                     <div class="achievement">
                                         <div>
                                             <div class="description ellipsis">+8 others...</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAABgcAAQgCAwX/xAAvEAABAwIDBgUDBQAAAAAAAAABAAIDBAUGERIHISIxcYEVI0FRYRMykRQzQqHB/8QAGwEAAQQDAAAAAAAAAAAAAAAABgACAwUBBAf/xAApEQABBAEDBAEDBQAAAAAAAAABAAIDBAURIUEGEzGBURKx0SIjcaHx/9oADAMBAAIRAxEAPwDKiiiiSS7AjLAmEW4gjmmncWQt3A+5QY3+1oHAdtNrw3TwvGTpPMJ6qqy9t1aD9B0cfCvcBQbcs/uDVrRul3jXBMdjt0dTTOc8ajr355BAX+rRmIqZtztddQAZvdH+FneeMxTyxH+Di38FMw1x9mIiU6uH2UnUOPjqTNdENGn7jyuhRWVSuEPKKKKJJL2sJ0HiN/o6fLNheNXRaJjaIYmMJGljQ3sAlXsdteuaor5W5t06WH2IKPMaV4t+HqycOykDOHqhDMyGxabA3jb2V0Dp6IVKLrL+dT6C44WqTX089WfWV8XYFKHaNbPDcSTMYPLkAeD8lNjADopcNQuhPC9xc7qeaH9r9t+vbYKyMcUTiXn4Sx8/YvlnB2/CWVrG1i2yeXAfV+UnFFZ5qkXrn655blZ3gBUBu38l7WD7ebjiGjgc3OMvGromSPEbS8+ApIYzK9sbfJOidOBrb4XhumhyGp/mHuhHbJccoaahYeLVqcB7EJmRMbFE1rftY3SOyQGO7l4niSeVpzazyx2QjiGGzcMzuN/ZR9npG08eK7OdB6CN9jdyL6Spt7j+15g7lHN/ofEbLV0eQP1WZdEktntwdQYnpd+Ucrg1/RP3MOAcw8LkzMxmvb7jed/ak6emFqj2X8bH+P8AFmKpiMFRNEebHln4XSQivaRbRbcSSiJuUcgDu5QqRlyRfBKJo2yDkIBtQGvM+I+QVBy5pn7HLaNdRXvbm0jS0n0IKWCa2D8W2izWSKlcQJAS47/UrQy/cNcsiGpKs8B2W2xLO4ANHPyjfFVd4dYq2pDgCxmbeqztNKZZpJDze4uPdMLaFjCmu9tipaAnIuOvf6Jc8txUWEqOghLnjQk/0tjqS+y1O1sZ1a0cfJXOGV8ErJGHJzTmCFo7D1YyusdNNG4HgAJ+clm8jcEyNn+MaSz2c0dcTwuLgc/dYzdR1iIOjGpBWem7zKszmSnRrhz8heztetv6i1QVcbeOIkvPwk7mdOR5JxX3G9nuNnqqUkEzN08+STzwA94b9oO7on4USsg7crSNDso+ojBJZE0DgdRvp8r/2Q==" alt="" />
-                            <div class="about">
-                                <div class="name">The Last Caretaker</div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                        </svg>
-                                        Action, Adventure, Indie, Simulation, Early Access
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
-                                        </svg>
-                                        3 hours played
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
-                                        </svg>
-                                        Last played on 26 Dec 2025
-                                    </div>
-                                </div>
-                                <div class="achievements">
-                                    <div class="infos">
-                                        <div>
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
-                                            </svg>
-                                            2 / 13 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwUDBAYI/8QAKxAAAgIBAwIDCAMAAAAAAAAAAQIDBBEAEiEFBgcxYRMUIiNBUXGBMlKh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQUAAgP/xAAiEQACAgIBAwUAAAAAAAAAAAABAgADBBEFEiGxMUGBkaH/2gAMAwEAAhEDEQA/ABup0iCdnykUaCRo1xDvPGPPkffXQ1e10rwRye8yRRS5KEVMK2CM4+PnnWbtmtFNXjE8qwI9yZWkYEhR8HPGk3w26V0+3cWS3YWexDloa2CQoB/mcjH4H709x8LHOOLbF39xdZdZ1lVPiFVztyIIYnuSHHBWSsfTgjf6ai3OhxVJijxxsUdQ6tBsOCwH9jzzr0J4mdKoKkd726VeonJXg/O24+o8mGRg6JOvNJaiuWbDmSYmMsx8z81Bo2YWO1BtRdaB9zIt1gcKT4mt29eavRliTZ8yedG3KG4Ozyz5Hjz0meHD163dEgisrLF7scSEbBk7cjnQPV6sYyzwglXcuFeENgnz+vpqpB3NcyiolXLHaN1RP9yeNY0cjUlAqbfpLPjuXLCPPidnqE3SYKjRySMZcAOPsv10U9wXfea9gtHFG22FNsa7R8MiDP541Atdy34ZnikjpllOCY6sbD9ENg6mWutyTDMw2qCGYRwKmQCDjOfTRbkqTQak33B/fmBcdy4Yz//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Apprentice caretaker</div>
-                                                <div class="unlocked">25 Dec 2025</div>
-                                            </div>
-                                            <div class="description">Reach player level 5</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwQGBQj/xAArEAACAQIFAwIGAwAAAAAAAAABAgMEEQAFEiExBhNBIlEUMmGBsrMHceH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgUAA//EACARAAICAgICAwAAAAAAAAAAAAECAAMEIQURErETQWH/2gAMAwEAAhEDEQA/ABulyiCdnukUaCRo1tDrO1udx7412SdCT1VIJqGoJVnKiOOnAY2tc218Da5xHkkQOX6/Jq5h+GFf+OIqqLLKyVY5TTyOO26MD6l5Gnmx2uR/uLlGDScZbWGz+mTnus8yoPqHGadAVVNQzSVczKkViySwbkbC4GvcXt98ZCpyaCBxZYpFDKGvDp2LAc6j749Adcx11T02rtDKFSQSTsTpVdrABeSL7/374Jc0iHwVS1t1MX7Uwz4FHwNYBsd/ZmW+wOAT6kuSzhaLtk7/ABUx/DCv0kpoMpE8EimWeMThzDITH6wpUEG1vJPnjAFS5sYyzwglXcuFeENYnnz9Md+k64zmKOKCCoRUt21UwKABe9vm2F98caeRrSham71GfHcuWEbeqdeZUFUk7r3EMsocQSagEPybm1jf7YI8zlBoalb7t2v2piSt65z5JZYZ6lGPqV9EKOp1c7hrG/nGfqs7kmF5hpUEMwjgVLgEG17/AEwW5Oo0NWvexAuO5YNP/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Last librarian.</div>
-                                                <div class="unlocked">25 Dec 2025</div>
-                                            </div>
-                                            <div class="description">Collect 10 memories.</div>
                                         </div>
                                     </div>
                                 </div>
