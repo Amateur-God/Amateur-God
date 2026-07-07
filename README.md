@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephen (Ama/Amateur-God)</h1>
-<h3 align="center">A passionate Sys-Admin from England</h3>
+<h3 align="center">A passionate Software Dev from England</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amateur-god&label=Profile%20views&color=0e75b6&style=flat" alt="amateur-god" />
